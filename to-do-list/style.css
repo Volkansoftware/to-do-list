@@ -1,0 +1,21 @@
+.bg-orange{
+background-color: orange;
+}
+.delete{
+    content: "\f00d";
+    position: absolute;
+    top: 13px;
+    right: 3px;
+}
+.bg-blue{
+    background-color:#9090ef;
+}
+.text-decoration-line{
+    text-decoration: line-through;
+}
+
+.checks{
+    position: absolute;
+    top: 13px;
+    left: 0px;
+}
